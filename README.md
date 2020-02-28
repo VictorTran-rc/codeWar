@@ -1,4 +1,4 @@
 # codeWar
 ## Code wars that I like to practice
 
-![codeWar](image/codeWar.jpg)
+![codeWar](image/codewar.jpg)
